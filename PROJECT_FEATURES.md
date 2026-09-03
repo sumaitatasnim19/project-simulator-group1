@@ -1,2 +1,4 @@
 # Implemented Features
-## FR-03: Adopter-browse available pets
+
+## FR-6- View pet details-in progress
+
